@@ -89,6 +89,4 @@ Setelah ini selanjutnya kita akan membuat flowcart Sebagai Berikut
 
 ```
 
-![flowcart](foto/flowcart.png)
-
-# Terimakasih
+![gitpush](foto/flowcart.png)
