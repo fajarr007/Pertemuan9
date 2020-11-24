@@ -42,7 +42,7 @@ print("==================================================================")
 
 Setelah Kita memasukan inputan dibawah ini ini lah hasil inputan Tersebut
 
-![gitpush](foto/ssss.png)
+![gitpush](foto/ssss.png) <br>
  
 Dan Setelah Kita Menemukan Hasil Nya Mari Saya Jelaskan Perinciannya
 
@@ -89,4 +89,18 @@ Setelah ini selanjutnya kita akan membuat flowcart Sebagai Berikut
 
 ```
 
-![gitpush](foto/flowcart.png)
+![gitpush](foto/flowcart.png) <br>
+
+## Pertemuan 9 Modul 5
+Pada Pertemuan 9 Modul 5 dosen memberikan saya tugas untuk membuat program sederhana yang akan menampilkan daftar nilai mahasiswa. berikut soal yang dosen berikan:
+![githpush](foto/dataa.png) <br>
+Penjelasan:
+Penggunaan if c.lower() if c.lower() fungsinya apabila user menginputkan dengan huruf besar, maka otomatis akan menjadi huruf kecil sehingga kondisi yang diinginkan tercapai. contoh: <br>
+```python 
+if c.lower() == 'q'
+```
+Penggunaan while True while True berfungsi untuk mendeteksi jika format yang diinputkan bukan berupa type maka akan muncul eror
+*Penggunaan else Fungsi else ialah jika tidak eror dan type yang dimasukan sesuai maka proses while True
+Pengunaan valueError Fungsinya apabila diinputkan bukan berupa type maka hasilnya error (valueError)
+berikut source codenya: <br>
+```python
